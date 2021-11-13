@@ -2,7 +2,9 @@
 Discord bot to send reminders of upcoming races
 
 This Discord bot is used to send text reminders of upcoming race times on a weekly basis.
+
 The series included are: F1, F2, F3, DTM and Indycar
+
 I used replit to host the bot on a web server, and used uptimerobot to keep the bot alive.
 
 The following video was used as a reference: https://www.youtube.com/watch?v=SPTfmiYiuok
