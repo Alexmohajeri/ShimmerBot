@@ -14,11 +14,11 @@ Bot currently set up for 2021 seasons of F1, F2, F3, DTM and Indycar
 
 """
 Variables for discord server: Modify as needed:
-send_to_channel: The channel ID to send the message
-role_tag_id: The ID of the role to tag in the message put into <>, can be replaced with any string if you want
+send_to_channel: The channel ID to send the message - int
+role_tag_id: The ID of the role to tag in the message put into <>, can be replaced with any string if you want - str
 """
-send_to_channel = 663485832556052488
-role_tag_id = "<@&728611834856341645>"
+send_to_channel = 0
+role_tag_id = ""
 
 
 
