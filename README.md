@@ -8,12 +8,12 @@ The following video was used as a reference: https://www.youtube.com/watch?v=SPT
 Remember to set up a TOKEN environment variable for your bot
 
 The bot is programmed in python 3, and requires the following libraries to function:
-  -discord
-  -datetime
-  -os
-  -discord.ext
-  -pandas
-  -tabulate
+- discord
+- datetime
+- os
+- discord.ext
+- pandas
+- tabulate
 
 Future updates will include:
-  -Bot will be able to create events for the server
+- Bot will be able to create events for the server
