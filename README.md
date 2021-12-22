@@ -1,5 +1,5 @@
 # ShimmerBot
-Discord bot to send reminders of upcoming races
+Discord bot to send reminders of upcoming races. Currently set for the 2022 calendar with all times set to 00:00, since session times are not confirmed
 
 This Discord bot is used to send text reminders of upcoming race times on a weekly basis.
 
